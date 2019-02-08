@@ -1,7 +1,7 @@
 # VestaCP-WP-Installer
 
 ## Installation
-- `sudo wget https://github.com/ssovit/VestaCP-WP-Installer/raw/master/create_wp /bin/create_wp`
+- `sudo wget https://github.com/ssovit/VestaCP-WP-Installer/raw/master/create_wp -O /bin/create_wp`
 - `sudo chmod +x /bin/create_wp`
 
 ## Usage
