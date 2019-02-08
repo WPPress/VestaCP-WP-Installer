@@ -1,4 +1,5 @@
 # VestaCP-WP-Installer
+A simplified WordPress installer for VestaCP using wp cli
 
 ## Installation
 - `sudo wget https://github.com/ssovit/VestaCP-WP-Installer/raw/master/create_wp -O /bin/create_wp`
